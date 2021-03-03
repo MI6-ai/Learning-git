@@ -1,1 +1,2 @@
 Add some text
+content of new feature
